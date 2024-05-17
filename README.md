@@ -33,6 +33,10 @@ Results:-
 
 ![Emp_5](https://github.com/SharbaniChakraborty/Employee_Management_System/assets/170112191/452c1acc-b5ed-4cd6-96f5-e7194298a2b8)
 
+![Emp_6](https://github.com/SharbaniChakraborty/Employee_Management_System/assets/170112191/2cb6364d-6a1f-4562-bdd0-e50d9d4acd74)
+
+![Emp_7](https://github.com/SharbaniChakraborty/Employee_Management_System/assets/170112191/5583a15f-e425-4bc9-9052-eb5b35a7ffcc)
+
 
 
 
