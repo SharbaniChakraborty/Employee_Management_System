@@ -1,5 +1,5 @@
 # Employee_Management_System
-The Employee Management System effectively combines MySQL, Firebase, and Streamlit to create an integrated solution for managing employee-related data and tasks. The project successfully achieves its goals of providing efficient data handling, real-time updates, and user-friendly interfaces for administrators.
+The Employee Management System effectively combines MySQL, Firebase, and Streamlit to create an integrated solution for managing employee-related data and tasks. The project (made as part of an online course that I did) successfully achieves its goals of providing efficient data handling, real-time updates, and user-friendly interfaces for administrators.
 
 # Why is it even needed in the first place?
 1. Efficient Data Management
